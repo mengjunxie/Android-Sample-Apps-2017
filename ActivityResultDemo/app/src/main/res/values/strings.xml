@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HelloAndroid</string>
+    <string name="ed_input_hint">Enter a string here</string>
+    <string name="btn_hash_msg">Click to Hash</string>
+    <string name="tv_show_hint">Checksum will be displayed here</string>
+    <string name="tv_desc_msg">Hashing a string into a SHA-1 checksum</string>
+    <string name="btn_dohash_msg">Hash it!</string>
+</resources>
