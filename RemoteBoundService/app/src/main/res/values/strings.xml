@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Remote Bound Service</string>
+    <string name="remote_service_started">The remote bound service just started</string>
+    <string name="remote_service_stopped">The remote bound service stopped</string>
+    <string name="remote_service_label">My Notification</string>
+    <string name="remote_service_connected">Connected to the remote bound service</string>
+    <string name="remote_service_disconnected">The remote bound service is lost!!</string>
+    <string name="text_view_state">Service connection state will be shown here</string>
+    <string name="text_view_num">Random number will be shown here</string>
+    <string name="button_startservice_str">Connect to service</string>
+    <string name="button_shownum_str">Generate a rand num</string>
+</resources>
